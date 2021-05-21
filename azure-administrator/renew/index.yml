@@ -14,7 +14,7 @@ skills:
 - Host a web application with Azure App service
 - Build a containerized web application with Docker
 - Secure Storage Accounts
-- Host your domain on Azure DNS
+- Host your domain on Azure DNS update
 - Secure and isolate access to Azure resources by using network security groups and service endpoints
 - Protect your machines with Azure Backup
 - Introduction to Kubernetes
