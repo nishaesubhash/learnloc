@@ -9,6 +9,8 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   Candidates for the Azure Administrator Associate certification should have subject matter expertise implementing, managing, and monitoring an organization’s Microsoft Azure environment.
   
+  <div><font color='red'><strong><a href='/learn/certifications/exams/ai-102'>EXAM AI-102</a>New div added IS REPLACING EXAM AI-100. AI-100 will retire on June 30, 2021 and updated again.</strong></font><br/><br/></div>
+  
   Responsibilities for this role include implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.
   
   An Azure administrator often serves as part of a larger team dedicated to implementing an organization's cloud infrastructure.
