@@ -67,6 +67,9 @@ resources:
 - title: Certification dashboard
   description: Review and manage your scheduled appointments, certificates, and transcripts.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Share your certification badges
+- title: Share your certification badges changed on may 24
+  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+  href: ../badges.md
+ - title: Share your certification badges newly added on my 24
   description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
   href: ../badges.md
