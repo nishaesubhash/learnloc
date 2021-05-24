@@ -33,6 +33,7 @@ products:
 - azure-active-directory
 - azure-virtual-network
 - azure-resource-manager
+- azure-resource-manager on may 24
 courses:
 - uid: course.az-104t00
 - uid: course.az-010t00
