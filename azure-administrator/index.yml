@@ -36,6 +36,7 @@ products:
 courses:
 - uid: course.az-104t00
 - uid: course.az-010t00
+- uid: course.az-010t01
 paths:
 - uid: learn.az104-admin-prerequisites
 - uid: learn.az-104-manage-identities-governance
