@@ -43,6 +43,7 @@ paths:
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA
 exams:
 - uid: exam.az-900
+- uid: exam.az-901
 resources:
 - title: Azure certifications poster
   description: Check out an overview including fundamentals, role-based, and specialty certifications for Azure.
