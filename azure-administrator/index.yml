@@ -42,7 +42,8 @@ paths:
 - uid: learn.az-104-manage-storage
 - uid: learn.az-104-manage-compute-resources
 - uid: learn.az-104-manage-virtual-networks
-- uid: learn.az-104-monitor-backup-resources
+- uid: learn.az-104-monitor-backup-resources updated on may 24
+- uid: learn.az-104-monitor-backup-resources added on may 24
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF
 exams:
 - uid: exam.az-104
