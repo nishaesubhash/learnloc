@@ -14,6 +14,7 @@ summary: |-
 subTitle: Azure Fundamentals validates foundational knowledge of cloud services and how those services are provided with Microsoft Azure  updated again updated on may 24.
 levels:
 - beginner
+- intermediate
 skills:
 - Describe cloud concepts
 - Describe core Azure services
