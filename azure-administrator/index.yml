@@ -21,7 +21,6 @@ levels:
 skills:
 - Manage Azure identities and governance 
 - Implement and manage storage
-- Deploy and manage Azure compute resources 
 - Configure and manage virtual networking 
 - Monitor and back up Azure resources 
 roles:
