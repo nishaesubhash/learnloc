@@ -62,9 +62,6 @@ resources:
 - title: Journey to certification
   description: Explore steps to get certified as an Azure Administrator Associate and the resources available to help you prepare.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElC
-- title: Training and certification guide
-  description: Explore all certifications in a concise training and certifications guide.
-  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
   href: https://aka.ms/traincertposter
