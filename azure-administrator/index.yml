@@ -32,7 +32,6 @@ type: role-based
 products:
 - azure
 - azure-virtual-machines
-- azure-storage
 - azure-active-directory
 - azure-virtual-network
 - azure-resource-manager
