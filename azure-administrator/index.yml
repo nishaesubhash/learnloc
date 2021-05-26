@@ -43,7 +43,6 @@ courses:
 paths:
 - uid: learn.az104-admin-prerequisites
 - uid: learn.az-104-manage-identities-governance
-- uid: learn.az-104-manage-storage
 - uid: learn.az-104-manage-compute-resources
 - uid: learn.az-104-manage-virtual-networks
 - uid: learn.az-104-monitor-backup-resources updated on may 24
