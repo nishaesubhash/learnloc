@@ -53,6 +53,9 @@ exams:
 - uid: exam.az-104
 - uid: exam.az-105
 resources:
+- title: Azure certifications poster may 26
+  description: Check out an overview including fundamentals, role-based, and specialty certifications for Azure may 26.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/may26/RE4wyqh
 - title: Azure certifications poster
   description: Check out an overview including fundamentals, role-based, and specialty certifications for Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
