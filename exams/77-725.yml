@@ -51,6 +51,7 @@ products:
 relatedCertifications:
 - related:
     uid: certification.mos-word-2016
+    uid: certification.mos-word-2017
 resources:
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
