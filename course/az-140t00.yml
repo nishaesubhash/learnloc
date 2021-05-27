@@ -94,13 +94,13 @@ outlineSection: |-
   #### Lab&#58; Deploy and manage host pools and hosts by using PowerShell 
 
   After completing this module, students will be able to&#58;
-  - Implement Azure virtual network connectivity
   - Manage connectivity to the internet and on-premises networks
   - Understanding Windows Virtual Desktop network connectivity
   - Configure WVD session hosts using Azure Bastion 
   - Configure storage for FSLogix components
   - Configure disks and file shares
   - Modify a session host image
+  - Modify a session host image may 27
   - Create and use a Shared Image Gallery (SIG)
   
   ### Module 3&#58; Manage Access and Security 
