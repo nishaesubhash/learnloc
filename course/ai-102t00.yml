@@ -41,6 +41,7 @@ summary: |-
   AI-102 Designing and Implementing an Azure AI Solution is intended for software developers wanting to build AI infused applications that leverage Azure Cognitive Services, Azure Cognitive Search, and Microsoft Bot Framework. The course will use C# or Python as the programming language.
   
   #### Audience profile
+  Adding new line.
   Software engineers concerned with building, managing and deploying AI solutions that leverage Azure Cognitive Services, Azure Cognitive Search, and Microsoft Bot Framework. They are familiar with C# or Python and have knowledge on using REST-based APIs to build computer vision, language analysis, knowledge mining, intelligent search, and conversational AI solutions on Azure.
 prerequisitesSection: |-
   Before attending this course, students must have&#58;
