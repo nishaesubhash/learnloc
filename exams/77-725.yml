@@ -17,6 +17,8 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVf
 providers:
   - providerType: certiport
     examUrl: http://www.certiport.com/locator
+  - providerType: certiport1
+    examUrl: http://www.certiport.com/locator1
 locales:
 - en
 - ar-sa
