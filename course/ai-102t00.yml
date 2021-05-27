@@ -45,8 +45,8 @@ summary: |-
   Software engineers concerned with building, managing and deploying AI solutions that leverage Azure Cognitive Services, Azure Cognitive Search, and Microsoft Bot Framework. They are familiar with C# or Python and have knowledge on using REST-based APIs to build computer vision, language analysis, knowledge mining, intelligent search, and conversational AI solutions on Azure.
 prerequisitesSection: |-
   Before attending this course, students must have&#58;
-  - Knowledge of Microsoft Azure and ability to navigate the Azure portal
-  - Knowledge of either C# or Python
+  - Knowledge of Microsoft Azure and ability to navigate the Azure portals
+  - Knowledge of either C# or Python Added
   - Familiarity with JSON and REST programming semantics
   
   To gain C# or Python skills, complete the free [Take your first steps with C#](/learn/paths/csharp-first-steps/) or [Take your first steps with Python](/learn/paths/python-first-steps/) learning path before attending the course.
