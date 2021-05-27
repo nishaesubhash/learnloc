@@ -8,7 +8,7 @@ courseNumber: 'AI-102T00'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Describe considerations for AI-enabled application development
+- skill: Describe considerations for AI-enabled application development updation
 - skill: Create, configure, deploy, and secure Azure Cognitive Services
 - skill: Develop applications that analyze text
 - skill: Develop speech-enabled applications
